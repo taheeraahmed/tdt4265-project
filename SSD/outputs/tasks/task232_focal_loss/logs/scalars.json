@@ -1,0 +1,4 @@
+{"amp/grad_scale": 32768.0, "global_step": 0}
+{"loss/regression_loss": 8.688299179077148, "loss/classification_loss": 49.15508270263672, "loss/total_loss": 57.8433837890625, "global_step": 0}
+{"amp/grad_scale": 16384.0, "global_step": 1}
+{"amp/grad_scale": 8192.0, "global_step": 2}

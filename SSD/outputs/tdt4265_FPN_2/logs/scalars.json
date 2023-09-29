@@ -1,0 +1,10 @@
+{"amp/grad_scale": 32768.0, "global_step": 0}
+{"loss/regression_loss": 9.552213668823242, "loss/classification_loss": 49.314476013183594, "loss/total_loss": 58.86669158935547, "global_step": 0}
+{"amp/grad_scale": 16384.0, "global_step": 1}
+{"amp/grad_scale": 8192.0, "global_step": 2}
+{"stats/learning_rate": 0.000509, "global_step": 3}
+{"stats/learning_rate": 0.000518, "global_step": 4}
+{"stats/learning_rate": 0.000527, "global_step": 5}
+{"amp/grad_scale": 4096.0, "global_step": 6}
+{"stats/learning_rate": 0.000536, "global_step": 7}
+{"stats/learning_rate": 0.000545, "global_step": 8}
